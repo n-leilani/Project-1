@@ -1,0 +1,63 @@
+body{
+    background-image: url(../media/images/black.jpeg);
+}
+@font-face {
+    font-family: code;
+    src: url(../media/fonts/Semi-Coder-Regular.otf);
+}
+.topnav {
+    overflow: hidden;
+    background-color: white;
+    border-radius: 15px;
+    width: 40%;
+    margin: auto;
+    font-family: code;
+  }
+.topnav a {
+    margin: auto;
+    display:block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: code;
+  }
+  
+  /* Change color on hover */
+  .topnav a:hover {
+    background-color:black;
+    color:white;}
+ .Profile{
+        font-family: code;
+        background-color:white;
+        width:30%;
+        align-items: center;
+        margin:auto;
+        padding: auto;
+        padding-top: 40px;
+        padding-bottom: 40px;
+        border-radius: 15px;
+        border-width: 3050px;
+       border-color: white;
+       text-align: center;
+       color: black;
+    }
+    .girl{
+        margin: auto;
+        display: block;
+        width: 250px;
+        height: 350px;
+        border-radius: 15px;
+        border-style: solid;
+        border-color: white;
+    }
+    .Status{
+        border: 5px;
+        border-style: solid;
+        border-color: black;
+        border-radius: 15px;
+        text-align: left;
+        margin: auto;
+        width: 80%;
+        padding: 5px;
+    }

@@ -1,0 +1,127 @@
+@font-face {
+    src: url("../media/fonts/Semi-Coder-Regular.otf");
+    font-family:code;
+}
+body{ background-image: url(../media/images/3fd343ae9b2e759e9e4487e816b812a2.jpg);}
+.topnav {
+    overflow: hidden;
+    background-color: rgb(242, 215, 250);
+    border-radius: 15px;
+    width: 33.33%;
+    margin:auto
+    
+  }
+  .music{
+    background-color: rgb(242, 215, 250);
+    border-radius: 15px;
+    font-family: code;
+    color: floralwhite;
+    padding:10px;
+    width:33.33%;
+  }
+  .about{
+    background-color: rgb(242, 215, 250);
+    border-radius: 15px;
+    font-family: code;
+    color: floralwhite;
+    padding:10px;
+    position: absolute;
+    top: 25%;
+    left: 1%;
+    width: 33.33%;
+  }
+  .status{
+    background-color: floralwhite;
+    border-radius: 15px;
+    font-family: code;
+    color:rgb(242, 215, 250);
+    padding-top: 5px;
+    padding-left: 5px;
+}
+.Interests{
+    background-color: floralwhite;
+    border-radius: 15px;
+    font-family: code;
+    color:rgb(242, 215, 250);
+    padding-top: 5px;
+    padding-left: 5px;
+}
+.chat{
+    background-color: rgb(242, 215, 250);
+    border-radius: 15px;
+    font-family: code;
+    color: floralwhite;
+    padding:10px;
+    display: inline-block;
+    position: absolute;
+    top: 25%;
+    right: 1%;
+    width: 33.33%;
+}
+.log{
+    background-color: floralwhite;
+    border-radius: 15px;
+    font-family: code;
+    color:rgb(242, 215, 250);
+    padding-top: 5px;
+    padding-left: 5px;
+}
+  /* Style the topnav links */
+  .topnav a {
+    margin: auto;
+    display:block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: code;
+  }
+  
+  /* Change color on hover */
+  .topnav a:hover {
+    background-color:floralwhite;
+    color: rgb(242, 215, 250);
+  }
+  .tumblr{
+    overflow: hidden;
+    background-color: rgb(242, 215, 250);
+    border-radius: 15px;
+    width: 33.33%;
+    position: absolute;
+    top:80%;
+    left:1%
+
+  }
+  .tumblr a{
+    margin: auto;
+    display:block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: code;
+  }
+  .tumblr a:hover{
+    background-color:floralwhite;
+    color: rgb(242, 215, 250);
+  }
+  .reply{
+    background-color: rgb(242, 215, 250);
+    border-radius: 15px;
+    font-family: code;
+    color: floralwhite;
+    padding:10px;
+    display: inline-block;
+    position: absolute;
+    top: 77%;
+    right: 1%;
+    width: 33.33%;
+}
+.Reply{
+    background-color: floralwhite;
+    border-radius: 15px;
+    font-family: code;
+    color:rgb(242, 215, 250);
+    padding-top: 5px;
+    padding-left: 5px;
+}

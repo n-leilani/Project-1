@@ -1,0 +1,54 @@
+
+@font-face {
+    src: url("../media/fonts/Semi-Coder-Regular.otf");
+    font-family: code;
+}
+.Profile{
+    font-family: code;
+    background-color:rgb(242, 215, 250);
+    width:30%;
+    align-items: center;
+    margin:auto;
+    padding: auto;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border-radius: 15px;
+    border-width: 3050px;
+   border-color: floralwhite;
+   text-align: center;
+   color: white;
+}
+.girl{
+    margin: auto;
+    display: block;
+    width: 250px;
+    height: 350px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: white;
+}
+.topnav {
+    overflow: hidden;
+    background-color: rgb(242, 215, 250);
+    border-radius: 15px;
+    width: 40%;
+    margin: auto;
+    font-family: code;
+  }
+  
+  /* Style the topnav links */
+  .topnav a {
+    margin: auto;
+    display:block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change color on hover */
+  .topnav a:hover {
+    background-color:floralwhite;
+    color: rgb(242, 215, 250);
+  }
+  
